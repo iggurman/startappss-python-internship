@@ -1,2 +1,1 @@
-# startappss-python-internship
-Daily work logs, learning progress, projects, and tasks completed during my Python Developer Internship at Startappss.
+Created a portfolio on day 1 and upgraded that same portfolio by learning the concepts of html n css and also git to be able to push the code to git
