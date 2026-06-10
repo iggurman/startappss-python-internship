@@ -1,0 +1,1 @@
+Got the road map right now so on day 1 created small portfolio using only html 4 files and css 2 files that had 3 more pages as a hyperlink and day 2 I created a 1 page resume using 2 files of html and css 
