@@ -1,1 +1,0 @@
-Created a portfolio on day 1 and upgraded that same portfolio by learning the concepts of html n css and also git to be able to push the code to git
